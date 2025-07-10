@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 if [ "$DOCKER_DESKTOP" = "true" ]; then
